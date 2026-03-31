@@ -65,3 +65,4 @@ This section includea papers related to diffusion models in areas outside direct
 | [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) |||||[ZH](https://zhuanlan.zhihu.com/p/640631667)|
 | [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233) |
 | [Diffusion Models for Reinforcement Learning: A Survey](https://arxiv.org/abs/2311.01223)|||||[awesome-diffusion-model-in-rl](https://github.com/opendilab/awesome-diffusion-model-in-rl.git)|
+| [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://www.youtube.com/watch?v=9eJQQVrUUoI)|||||[Lecture Notes](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf)|
