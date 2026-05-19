@@ -21,7 +21,7 @@ Diffusion models, originally developed for generative tasks like image synthesis
 <img width="620" height="480" alt="image" src="https://github.com/user-attachments/assets/c7e1b589-af23-4ce8-8d77-be6cbd781bcc" />
 </p>
 
-The **Awesome-Diffusion4Planning** repository serves as a comprehensive collection of resources focused on the application of diffusion models in path planning tasks. 
+The **Awesome-Diffusion4Planning** repository serves as a comprehensive collection of resources focused on the application of diffusion models in path planning. 
 
 ## 1. Foundational Theories and Methods
 This section includes essential papers that lay the groundwork for diffusion models in path planning.
